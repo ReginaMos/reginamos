@@ -15,8 +15,10 @@
     </a>
 </p>
 
-<h2>🌟 Personal Projects</h2>
+<h2>👌 Personal Projects</h2>
+
 - 🌟 [React Project: Star Wars](https://reginamos.github.io/react-project/rs-react-app/)
 
 <h2>🤝 Collaborations</h2>
+
 - 👗 [Vue 3 Commercetools Project](https://reginamos.github.io/e-commerce/release-sprint-4/#/)
