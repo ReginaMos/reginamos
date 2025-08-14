@@ -69,10 +69,10 @@
 [React]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev/
 
-[Vuetify]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg
+[Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white
 [Vuetify-url]: https://vuetifyjs.com/
 
-[Bootstrap]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg
+[Bootstrap]: https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com/
 
 [Tailwind]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
@@ -81,10 +81,10 @@
 [Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
 
-[Vuex]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
+[Vuex]: https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
 [Vuex-url]: https://vuex.vuejs.org/
 
-[Pinia]: https://pinia.vuejs.org/logo.svg
+[Pinia]: https://img.shields.io/badge/Pinia-2C3E50?style=for-the-badge&logo=pinia&logoColor=white
 [Pinia-url]: https://pinia.vuejs.org/
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
@@ -114,7 +114,7 @@
 [Stylelint]: https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white
 [Stylelint-url]: https://stylelint.io/
 
-[Photoshop]: https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
+[Photoshop]: https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
 [Photoshop-url]: https://www.adobe.com/products/photoshop.html
 
 [Figma]: https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
