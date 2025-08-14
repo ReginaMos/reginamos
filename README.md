@@ -10,11 +10,11 @@
     </a>
   
     <a href="https://www.linkedin.com/in/regina-moiseeva-158821284/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+      <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
 
     <a href="https://t.me/regina_mos">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+      <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
     </a>
 </p>
   
