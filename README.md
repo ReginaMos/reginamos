@@ -84,7 +84,7 @@
 [Vuex]: https://img.shields.io/badge/Vuex-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white
 [Vuex-url]: https://vuex.vuejs.org/
 
-[Pinia]: https://img.shields.io/badge/Pinia-2C3E50?style=for-the-badge&logo=pinia&logoColor=white
+[Pinia]: https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=white
 [Pinia-url]: https://pinia.vuejs.org/
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
