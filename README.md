@@ -1,6 +1,22 @@
 <p align="center">
-    <img src="https://git-profile-readme-banner.vercel.app/api/python?username=ReginaMos&txt=front-end%20developer&bg=LightCyan&fill=black" alt="Banner" />
+    <img src="https://git-profile-readme-banner.vercel.app/api/python?username=ReginaMos&txt=front-end%20developer&bg=LightSteelBlue&fill=black" alt="Banner" />
 </p>
+  
+<h2>📱 Contact Me</h2>
+
+<p align="center">
+    <a href="mailto:moiseevaryu@gmail.com">
+      <img src="https://img.shields.io/badge/email-your.email@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+    </a>
+  
+    <a href="https://www.linkedin.com/in/regina-moiseeva-158821284/">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    
+    <a href="https://t.me/regina_mos">
+      <img src="https://img.shields.io/badge/Telegram-@yourtelegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+    </a>
+  </p>
   
 
 <!--
