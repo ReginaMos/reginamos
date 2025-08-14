@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://git-profile-readme-banner.vercel.app/api/python?username=ReginaMos&txt=front-end%20developer&bg=LightSteelBlue&fill=black" alt="Banner" />
+    <img src="https://git-profile-readme-banner.vercel.app/api/python?username=ReginaMos&txt=front-end%20developer&bg=Azure&fill=black" alt="Banner" />
 </p>
   
 <h2>📱 Contact Me</h2>
@@ -8,28 +8,15 @@
     <a href="mailto:moiseevaryu@gmail.com">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
     </a>
-  
     <a href="https://www.linkedin.com/in/regina-moiseeva-158821284/">
       <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-    </a>
-
     <a href="https://t.me/regina_mos">
       <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
     </a>
 </p>
-  
 
-<!--
-**ReginaMos/reginamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🌟 Personal Projects</h2>
+- 🌟 [React Project: Star Wars](https://reginamos.github.io/react-project/rs-react-app/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🤝 Collaborations</h2>
+- 👗 [Vue 3 Commercetools Project](https://reginamos.github.io/e-commerce/release-sprint-4/#/)
