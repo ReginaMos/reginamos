@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+    <img src="https://git-profile-readme-banner.vercel.app/api/python?username=ReginaMos&txt=front-end%20developer&bg=LightCyan&fill=black" alt="Banner" />
+</p>
+  
 
 <!--
 **ReginaMos/reginamos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
