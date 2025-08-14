@@ -4,7 +4,7 @@
   
 <h2>📱 Contact Me</h2>
 
-<p align="center">
+<p align="left">
     <a href="mailto:moiseevaryu@gmail.com">
       <img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
     </a>
@@ -30,13 +30,13 @@
 [![VueJs][VueJs]][VueJs-url]
 [![React][React]][React-url]
 
-<h4>🖌 UI Libraries & Components</h4>
+<h4>🖌 UI Libraries </h4>
 
 [![Vuetify][Vuetify]][Vuetify-url]
 [![Bootstrap][Bootstrap]][Bootstrap-url]
 [![Tailwind][Tailwind]][Tailwind-url]
 
-<h4>⚙️ State Management & Utilities</h4>
+<h4>⚙️ State Managements </h4>
 
 [![Redux][Redux]][Redux-url]
 [![Vuex][Vuex]][Vuex-url]
@@ -57,17 +57,38 @@
 [![Prettier][Prettier]][Prettier-url]
 [![Stylelint][Stylelint]][Stylelint-url]
 
+<h4>🛠️ Tooling & CI/CD</h4>
+
+[![Vite][Vite]][Vite-url]
+[![Git][Git]][Git-url]
+[![GitHub][GitHub]][GitHub-url]
+[![GitHubActions][GitHubActions]][GitHubActions-url]
+[![Netlify][Netlify]][Netlify-url]
+
+<h4>🧪 Testing</h4>
+
+[![Vitest][Vitest]][Vitest-url]
+[![Jest][Jest]][Jest-url]
+
+<h4>🌐 API & Networking</h4>
+
+[![Axios][Axios]][Axios-url]
+[![WebSocket][WebSocket]][WebSocket-url]
+[![Postman][Postman]][Postman-url]
+
 <h4>🎨 Design</h4>
 
 [![Figma][Figma]][Figma-url]
 [![Photoshop][Photoshop]][Photoshop-url]
 
-<!-- Links & images-->
+<!-- Front-end frameworks-->
 [VueJs]: https://img.shields.io/badge/VueJs-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white
 [VueJs-url]: https://vuejs.org/
 
 [React]: https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white
 [React-url]: https://react.dev/
+
+<!--  UI Libraries -->
 
 [Vuetify]: https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white
 [Vuetify-url]: https://vuetifyjs.com/
@@ -78,6 +99,8 @@
 [Tailwind]: https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Tailwind-url]: https://tailwindcss.com/
 
+<!--  State Managements -->
+
 [Redux]: https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white
 [Redux-url]: https://redux.js.org/
 
@@ -86,6 +109,8 @@
 
 [Pinia]: https://img.shields.io/badge/Pinia-F7D336?style=for-the-badge&logo=pinia&logoColor=white
 [Pinia-url]: https://pinia.vuejs.org/
+
+<!--  Languages & Core Tech -->
 
 [Javascript]: https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white
 [Javascript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
@@ -102,6 +127,9 @@
 [Markdown]: https://img.shields.io/badge/markdown-000000.svg?style=for-the-badge&logo=markdown&logoColor=white
 [Markdown-url]: https://www.markdownguide.org/
 
+
+<!-- Code Quality -->
+
 [Husky]: https://img.shields.io/badge/Husky-F05032?style=for-the-badge&logo=furrynetwork&logoColor=white
 [Husky-url]: https://typicode.github.io/husky/
 
@@ -113,6 +141,42 @@
 
 [Stylelint]: https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white
 [Stylelint-url]: https://stylelint.io/
+
+<!-- Tooling & CI/CD -->
+[Vite]: https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white
+[Vite-url]: https://vitejs.dev/
+
+[Git]: https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white
+[Git-url]: https://git-scm.com/
+
+[GitHub]: https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white
+[GitHub-url]: https://github.com/
+
+[GitHubActions]: https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white
+[GitHubActions-url]: https://github.com/features/actions
+
+[Netlify]: https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white
+[Netlify-url]: https://www.netlify.com/
+
+<!--Testing -->
+[Vitest]: https://img.shields.io/badge/vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white
+[Vitest-url]: https://vitest.dev/
+
+[Jest]: https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white
+[Jest-url]: https://jestjs.io/
+
+<!-- API & Networking -->
+
+[Axios]: https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white
+[Axios-url]: https://axios-http.com/
+
+[WebSocket]: https://img.shields.io/badge/WebSocket-615EFF?style=for-the-badge&logoColor=white
+[WebSocket-url]: https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
+
+[Postman]: https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+[Postman-url]: https://www.postman.com/
+
+<!-- Design -->
 
 [Photoshop]: https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white
 [Photoshop-url]: https://www.adobe.com/products/photoshop.html
